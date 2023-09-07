@@ -5,5 +5,5 @@ worked on senior year capstone project "Supply Chain Design Between Production F
 
 as a team of 7, we worked with a fastener manufacturer in this project, therefore, input data are not provided here due to confidentiality.
 
-for more information about the project, you can read our booklet here -> [.](https://w3.ie.bilkent.edu.tr/wp-content/uploads/2023/07/booklet-for-the-web.pdf#page=232)
+for more information about the project, you can read our booklet [here](https://w3.ie.bilkent.edu.tr/wp-content/uploads/2023/07/booklet-for-the-web.pdf#page=232).
 
